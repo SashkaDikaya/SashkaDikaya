@@ -7,7 +7,7 @@
 
 сейчас я работаю над автоматизацией тестирования веб-портала грузового терминала в компании Солво\\
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=tokyonight)
 
 
 <!--
