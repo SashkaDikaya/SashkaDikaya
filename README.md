@@ -6,7 +6,7 @@
 
 треть курса в QA.GURU пройдена! история моей боли остается за кадром, а тут ниже можно увидеть мои достижения за время учебы
 
-рекомендую начинать знакомство с <a target="_blank" href="https://github.com/SashkaDikaya/QAGuruTask13/">QAGuruTask13</a>, там красиво :dizzy:
+рекомендую начинать знакомство с <a target="_blank" href="https://github.com/SashkaDikaya/QAGuruTask13/">QAGuruTask13</a>, там красиво :bird:
 
 
 
