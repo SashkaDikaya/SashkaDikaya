@@ -4,11 +4,13 @@
 
 ![](картинки-javascript-программирование-3340155.jpeg)
 
-треть курса в QA.GURU пройдена! история моей боли остается за кадром, а тут ниже можно увидеть мои достижения за время учебы
+пройден курс в QA.GURU! история моей боли остается за кадром, а тут ниже можно увидеть мои достижения за время учебы
 
-рекомендую начинать знакомство с <a target="_blank" href="https://github.com/SashkaDikaya/QAGuruTask13/">QAGuruTask13</a>, там красиво :bird:
+автотесты на UI <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) :bird:
 
+автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) :bird:
 
+автотесты на мобильные устройства <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) :bird:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=tokyonight)
 
