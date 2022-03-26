@@ -8,9 +8,9 @@
 
 автотесты на UI <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) :bird:
 
-автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) :bird:
+автотесты на API 
 
-автотесты на мобильные устройства <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) :bird:
+автотесты на мобильные устройства 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=tokyonight)
 
