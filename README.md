@@ -6,11 +6,11 @@
 
 пройден курс в  <a target="_blank" href="https://qa.guru/">QA.GURU!!</a>  история моей боли остается за кадром, а тут ниже можно увидеть мои достижения за время учебы
 
-автотесты на UI <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) :bird:
+:purple_heart: автотесты на UI <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) 
 
-автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/DiplomaAPI">DiplomaAPI</a>
+:heartpulse: автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/DiplomaAPI">DiplomaAPI</a>
 
-автотесты на мобильные устройства 
+:sparkling_heart: автотесты на мобильные устройства 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=tokyonight)
 
