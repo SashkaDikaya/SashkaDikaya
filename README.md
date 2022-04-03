@@ -8,7 +8,7 @@
 
 автотесты на UI <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) :bird:
 
-автотесты на API 
+автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/DiplomaAPI">DiplomaAPI</a>
 
 автотесты на мобильные устройства 
 
