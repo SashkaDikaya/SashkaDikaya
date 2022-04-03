@@ -4,7 +4,7 @@
 
 ![](картинки-javascript-программирование-3340155.jpeg)
 
-пройден курс в  <a target="_blank" href="https://qa.guru/">QA.GURU!!</a>  история моей боли остается за кадром, а тут ниже можно увидеть мои достижения за время учебы
+пройден курс в :star2: <a target="_blank" href="https://qa.guru/">QA.GURU</a> :star2: история моей боли остается за кадром, а тут ниже можно увидеть мои достижения за время учебы
 
 :purple_heart: автотесты на UI <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) 
 
