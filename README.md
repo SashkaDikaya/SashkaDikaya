@@ -8,11 +8,9 @@
 
 :purple_heart: автотесты на UI <a target="_blank" href="https://github.com/SashkaDikaya/Diploma/">Diploma</a> (там красиво) 
 
-:heartpulse: автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/DiplomaAPI">DiplomaAPI</a>
+:sparkling_heart: автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/DiplomaAPI">DiplomaAPI</a>
 
-:sparkling_heart: автотесты на мобильные устройства 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=tokyonight)
 
 
 
