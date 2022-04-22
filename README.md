@@ -10,6 +10,8 @@
 
 :sparkling_heart: автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/DiplomaAPI">DiplomaAPI</a>
 
+моя гордость!
+:point_down: :point_down: :point_down: :point_down:
 <p align="center">
 <img title="Allure Graphics" src="Сертификат 391.jpg">
 </p>
