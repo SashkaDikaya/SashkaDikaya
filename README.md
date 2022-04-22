@@ -10,9 +10,8 @@
 
 :sparkling_heart: автотесты на API <a target="_blank" href="https://github.com/SashkaDikaya/DiplomaAPI">DiplomaAPI</a>
 
-мой сертификатик!!
-
 ![](Сертификат 391.jpg)
+
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=tokyonight)
 
