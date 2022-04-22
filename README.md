@@ -12,7 +12,7 @@
 
 мой сертификатик!!
 
-![](Р•бгаб 391.png)
+![](Сертификат 391.jpg)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SashkaDikaya&show_icons=true&theme=tokyonight)
 
